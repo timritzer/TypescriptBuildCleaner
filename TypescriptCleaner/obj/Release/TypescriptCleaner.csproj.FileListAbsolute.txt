@@ -1,0 +1,12 @@
+C:\Users\tritzer.HEALTHMEDX\AppData\Local\Temporary Projects\TypescriptCleaner\bin\Release\TypescriptCleaner.exe.config
+C:\Users\tritzer.HEALTHMEDX\AppData\Local\Temporary Projects\TypescriptCleaner\bin\Release\TypescriptCleaner.exe
+C:\Users\tritzer.HEALTHMEDX\AppData\Local\Temporary Projects\TypescriptCleaner\bin\Release\TypescriptCleaner.pdb
+C:\Users\tritzer.HEALTHMEDX\AppData\Local\Temporary Projects\TypescriptCleaner\obj\Release\TypescriptCleaner.csprojResolveAssemblyReference.cache
+C:\Users\tritzer.HEALTHMEDX\AppData\Local\Temporary Projects\TypescriptCleaner\obj\Release\TypescriptCleaner.exe
+C:\Users\tritzer.HEALTHMEDX\AppData\Local\Temporary Projects\TypescriptCleaner\obj\Release\TypescriptCleaner.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TypescriptCleaner\TypescriptCleaner\bin\Release\TypescriptCleaner.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TypescriptCleaner\TypescriptCleaner\obj\Release\TypescriptCleaner.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TypescriptCleaner\TypescriptCleaner\obj\Release\TypescriptCleaner.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TypescriptCleaner\TypescriptCleaner\bin\Release\TypescriptCleaner.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TypescriptCleaner\TypescriptCleaner\bin\Release\TypescriptCleaner.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TypescriptCleaner\TypescriptCleaner\obj\Release\TypescriptCleaner.csprojResolveAssemblyReference.cache

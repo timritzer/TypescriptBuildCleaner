@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypescriptCleaner", "TypescriptCleaner\TypescriptCleaner.csproj", "{3F9C1D3D-AA14-4EA9-B91B-571A51228428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F9C1D3D-AA14-4EA9-B91B-571A51228428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9C1D3D-AA14-4EA9-B91B-571A51228428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9C1D3D-AA14-4EA9-B91B-571A51228428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9C1D3D-AA14-4EA9-B91B-571A51228428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
